@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidJokeLib</string>
+    <string name="jokeEnvelope">joke man</string>
+    <string name="nojokes">No Jokes for now man! come back later</string>
+</resources>
